@@ -1,0 +1,81 @@
+{
+  "DAB_Channels": [
+    {
+      "name": "channel 1",
+      "frequency": 99.2
+    },
+    {
+      "name": "channel 2",
+      "frequency": 102.2
+    }
+  ],
+  "FM_Channels": [
+    {
+      "name": "channel 1",
+      "frequency": 89.2
+    },
+    {
+      "name": "channel 2",
+      "frequency": 96.2
+    }
+  ],
+  "channel_mem": {
+    "1": {
+      "name": null,
+      "frequency": null
+    },
+    "2": {
+      "name": null,
+      "frequency": null
+    },
+    "3": {
+      "name": null,
+      "frequency": null
+    },
+    "4": {
+      "name": null,
+      "frequency": null
+    },
+    "5": {
+      "name": null,
+      "frequency": null
+    },
+    "6": {
+      "name": null,
+      "frequency": null
+    },
+    "7": {
+      "name": null,
+      "frequency": null
+    },
+    "8": {
+      "name": null,
+      "frequency": null
+    },
+    "9": {
+      "name": null,
+      "frequency": null
+    },
+    "10": {
+      "name": null,
+      "frequency": null
+    },
+    "11": {
+      "name": null,
+      "frequency": null
+    },
+    "12": {
+      "name": null,
+      "frequency": null
+    }
+  },
+  "current_channel_dab": {
+        "name": null,
+        "frequency": null
+      },
+  "current_channel_fm": {
+      "name": null,
+      "frequency": null
+    },
+  "current_input": "DAB"
+}

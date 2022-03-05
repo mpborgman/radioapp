@@ -1,0 +1,6 @@
+<RCC>
+  <qresource prefix="/">
+    <file>resources/images/dash_pause.png</file>
+    <file>resources/images/dash_play.png</file>
+  </qresource>
+</RCC>
